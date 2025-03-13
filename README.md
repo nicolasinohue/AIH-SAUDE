@@ -12,12 +12,11 @@ O **AIH-Saúde** é um aplicativo desenvolvido para auxiliar no gerenciamento de
 ## Tecnologias Utilizadas
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** JAVA, .NET
-- **Banco de Dados:** Oracle Database
+- **Banco de Dados:** Firebase
 
 ## Como Executar o Projeto
 ### Requisitos
 - Node.js instalado
-- Banco de dados configurado
 
 ### Passos para Execução
 1. Clone este repositório:
