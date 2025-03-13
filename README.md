@@ -32,7 +32,11 @@ O **AIH-Saúde** é um aplicativo desenvolvido para auxiliar no gerenciamento de
    ```sh
    npm install
    ```
-4. Execute o projeto:
+4. Instale o Expo CLI:
+   ```sh
+   npm install -g expo-cli
+   ```
+5. Execute o projeto:
    ```sh
    npm start
    ```
