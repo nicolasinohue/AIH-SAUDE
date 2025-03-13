@@ -26,7 +26,7 @@ O **AIH-Saúde** é um aplicativo desenvolvido para auxiliar no gerenciamento de
    ```
 2. Acesse o diretório do projeto:
    ```sh
-   cd AIH-Sa-de
+   cd AIH-SAUDE
    ```
 3. Instale as dependências (caso necessário):
    ```sh
